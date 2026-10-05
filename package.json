@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^3.0.0",
-    "moment": "^2.29.4",
+    "moment": "^2.31.0",
     "moment-timezone": "^0.5.43",
     "xlsx": "^0.18.5"
   }
